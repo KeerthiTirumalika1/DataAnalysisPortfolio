@@ -10,7 +10,7 @@ This dashboard analyzes house sales data from King County, Washington to uncover
 - Enabled interactive filtering for detailed market analysis
 
 ## 🖼️ Dashboard Preview
-![Dashboard](KingCountyHouseSales.png)
+![Dashboard](King-County-House-Sales.png)
 
 ## 🔗 Tableau Public Link
 https://public.tableau.com/app/profile/keerthi.tirumalika2526
