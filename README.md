@@ -1,6 +1,6 @@
 # Hi, I'm Keerthi 👋
 
-📊 **Data Analyst | Tableau Developer | Data Visualization Enthusiast**
+📊 **Business & Data Analyst | Tableau Developer | Data Visualization Enthusiast**
 
 I am a Business and data analyst with hands-on experience in building **interactive Tableau dashboards** across business, healthcare, operations, and real-estate domains.  
 My work focuses on transforming raw data into **clear insights that support data-driven decision making**.
